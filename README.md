@@ -7,6 +7,7 @@ Project timeline and technologies used:
 Build a Portfolio website in 24 hours to showcase the following:
 
 My technical skill set
+
 My web design skill set
 
 Technologies Used:
